@@ -1,8 +1,0 @@
-1. Git funciona principalmente para archivos de texto, es decir, si guardo una imagen  en mi proyecto y luego le hago algun cambio, git no me deja ver ese control de versión en imagenes, pero con el código sí.
-
-2. Para que git rastree un archivo debemos indicarlo, no es porque un proyecto está en git que los archivos ya son rastreables por git. Cuando un documento es rastreado por el repositorio, el archivo puede ser preparado, confirmado o modificado. Con la acción 'add' el archivo se prepara, y con la acción 'commit' el archivo de guarda en el repositorio. Este ciclo se repite cada vez que se modifica el archivo.
-
-3. Lo que se hace en la consola no debería ser necesario guardar, si quieres guardar algo debería estar en un script NO en la consola.
-
-4. Nunca borrar la carpeta .git del proyecto porque es la carpeta que almacena todo el historial de modificaciones para Git.
-
